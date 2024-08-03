@@ -1,7 +1,5 @@
+website ini dibuat secara native ,
 
-website ini dibuat secara native oleh saya,
-
-dikarenakan projek kuliah, ini masih belum final, dan ada banyak bug, dan pada fitur download dan upload tugas masih error
 
 demo web tersebut sebagai berikut :
  - buka xampp
