@@ -19,7 +19,7 @@ $role = $_SESSION['role'];
 </head>
 <body class="bg-gray-100 p-6">
     <div class="max-w-md mx-auto bg-white p-6 rounded-lg shadow-md">
-        <h2 class="text-2xl font-bold mb-6">Dashboard</h2>
+        <h2 class="text-2xl font-bold mb-6">Dashboard ADMIN</h2>
         <?php if ($role == 'admin'): ?>
             <a href="manage_users.php" class="block w-full text-center bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-700">edit guru user</a>
         <?php elseif ($role == 'guru'): ?>
